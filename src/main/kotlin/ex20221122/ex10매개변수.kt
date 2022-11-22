@@ -13,4 +13,4 @@ fun main() {
 // 이메일을 입력하지 않았을 경우에 "default"라는 문자열을 저장하기로 약속
 fun addList(name:String, email:String = "default"){
     // DB에 저장...
-}
+}// 회원가입 (firebase에서 사용할 예정)
