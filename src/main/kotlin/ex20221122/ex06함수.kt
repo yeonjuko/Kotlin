@@ -15,4 +15,5 @@ fun main() {
 
 // fun getName(name:String):String = name
 // 반환하고 있는 데이터를 보고 리턴타입도 추론 가능
+
 fun getName(name:String) = name
